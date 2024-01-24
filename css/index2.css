@@ -1,0 +1,8 @@
+@media screen and (max-width:400px) {
+    .col-lg-5 col-12, .d-flex flex-column h-100 ms-lg-4 mt-lg-0 mt-5, h3, ul, li, p, #p{
+        width: 100px;
+        display: none;
+        
+    }
+    
+}
